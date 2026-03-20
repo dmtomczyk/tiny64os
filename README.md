@@ -6,8 +6,9 @@ It is intentionally compact, but no longer just a "hello world" kernel. It boots
 
 The goal of this repository is to be a modern, understandable, buildable example of a minimal 64-bit hobby OS.
 
-![tiny64os GRUB Screenshot](/pics/GRUBMenu.png)
-![tiny64os Screenshot](/pics/DaymOS-0.1.0.png)
+![tiny64os GRUB Screenshot](/pics/tiny64os-grub.png)
+
+![tiny64os Screenshot](/pics/tiny64os-shell.png)
 
 ## Current features
 
